@@ -1,0 +1,8 @@
+# Arquivos compilados e pastas de build do NetBeans / Java
+build/
+dist/
+target/
+*.class
+
+# Arquivos locais da IDE
+nbproject/private/
